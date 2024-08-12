@@ -1,0 +1,425 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "ZEBRONICS Thunder Bluetooth 5.3 Wireless",
+      "price": "₹699.00",
+      "url": "./images/product1.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 2,
+      "title": "boAt Rockerz 425 Bluetooth Wireless Over Ear Headphones",
+      "price": "₹1499.00",
+      "url": "./images/product2.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 3,
+      "title": "Portronics Conch Gama in-Ear Wired Earphone",
+      "price": "₹228.00 ",
+      "url": "./images/product3.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 4,
+      "title": "Boult Audio W20 Truly Wireless in Ear Earbuds with 35H Playtime,",
+      "price": "₹899.00 ",
+      "url": "./images/product4.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 5,
+      "title": "Apple iPhone 15 Pro Max (256 GB) - Black Titanium",
+      "price": "₹1,51,700.00",
+      "url": "./images/product5.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 6,
+      "title": "POCO C65(Matte Black 6GB RAM 128GB Storage)",
+      "price": "₹7,299.00",
+      "url": "./images/product6.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 7,
+      "title": "Redmi Note 13 Pro+ (Fusion White, 8GB RAM, 256GB Storage)",
+      "price": "₹29,499.00",
+      "url": "./images/product7.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 8,
+      "title": "Redmi 13 5G, Hawaiian Blue, 6GB+128GB|",
+      "price": "₹13,999.00",
+      "url": "./images/product8.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 9,
+      "title": "Acer Aspire Lite 12th Gen Intel Core i5-1235U Premium Laptop (16GB RAM/512GB SSD)",
+      "price": "₹42,990.00",
+      "url": "./images/product9.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 10,
+      "title": "ZEBRONICS PRO Series Z NBC 4S, Intel Core 12th Gen i5 Processor 16GB RAM & 512GB SSD",
+      "price": "₹31,990.00",
+      "url": "./images/product10.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 11,
+      "title": "Acer Aspire Lite 12th Gen Intel Core i5-1235U Thin and Light Laptop",
+      "price": "₹39,990.00",
+      "url": "./images/product11.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 12,
+      "title": "Rs.1000 Sony PlayStation Store Gift Card",
+      "price": "₹1,000.00",
+      "url": "./images/product12.png",
+      "category": "Electronc's"
+    },
+    {
+      "id": 13,
+      "title": "Rs.2000 Sony PlayStation Network Wallet",
+      "price": "50",
+      "url": "./images/product13.png",
+      "category": "Electronc's"
+    },
+    {
+      "id": 14,
+      "title": "Rs.3000 Sony PlayStation Network Wallet",
+      "price": "₹3,000.00",
+      "url": "./images/product14.png",
+      "category": "Electronc's"
+    },
+    {
+      "id": 15,
+      "title": "pTron Fusion Beats 40W Karaoke Bluetooth Party Speaker, Loud",
+      "price": "₹1,398.00",
+      "url": "./images/product15.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 16,
+      "title": "ZEBRONICS BT4440RUCF 60W 4.1 Channel Multimedia Speakers ",
+      "price": "₹2,499.00",
+      "url": "./images/product16.webp",
+      "category": "Electronc's"
+    },
+    {
+      "id": 17,
+      "title": "Casual Shirt for Men|| Shirt for Men|| Men Stylish",
+      "price": "₹449.00",
+      "url": "./images/product17.png",
+      "category": "Clothes"
+    },
+    {
+      "id": 18,
+      "title": "Women Banarasi Silk Jacquard Saree With Blouse Piece",
+      "price": "₹905.00",
+      "url": "./images/product18.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 19,
+      "title": "Funkyrich® Textured Popcorn Shirts for Men",
+      "price": "₹399.00",
+      "url": "./images/product19.png",
+      "category": "Clothes"
+    },
+    {
+      "id": 20,
+      "title": "Women's Stylish Cotton Blend Ajrak Digital Printed",
+      "price": "₹474.00",
+      "url": "./images/product20.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 21,
+      "title": "Men's Cotton Blend Mandarin Collar Self One Design",
+      "price": "₹494.00",
+      "url": "./images/product21.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 22,
+      "title": "Women Tafetta Silk Readymade Lehenga Choli Set",
+      "price": "₹3,109.00",
+      "url": "./images/product22.png",
+      "category": "Clothes"
+    },
+    {
+      "id": 23,
+      "title": "Men's Cotton Blend Stitched Solid Half",
+      "price": "₹269.00",
+      "url": "./images/product23.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 24,
+      "title": "Casual Shirt for Men|| Shirt for Men",
+      "price": "₹349.00",
+      "link" : "https://www.youtube.com/",
+      "url": "./images/product24.png",
+      "category": "Clothes"
+    },
+    {
+      "id": 25,
+      "title": "Women's Cotton Blend Straight Embroidery Kurta",
+      "price": "₹699.00",
+      "url": "./images/product25.png",
+      "category": "Clothes"
+    },
+    {
+      "id": 26,
+      "title": "Cotton Spread Collar Long Sleeve Shirt",
+      "price": "₹299.00",
+      "url": "./images/product26.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 27,
+      "title": "Women's Rayon Blend Straight Printed Kurta",
+      "price": "₹599.00",
+      "url": "./images/product27.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 28,
+      "title": "Cotton Calf Length Embroidered Anarkali Kurti",
+      "price": "₹780.00",
+      "url": "./images/product28.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 29,
+      "title": "Women's Kurta with Pant & Dupatta",
+      "price": "₹599.00",
+      "url": "./images/product29.webp",
+      "category": "Clothes"
+    },
+    {
+      "id": 30,
+      "title": "SPARX",
+      "price": "₹1,316.00",
+      "url": "./images/product30.webp",
+      "category": "Shoes"
+    },
+    {
+      "id": 31,
+      "title": "Bacca Bucci",
+      "price": "₹1,519.00",
+      "url": "./images/product31.webp",
+      "category": "Shoes"
+    },
+    {
+      "id": 32,
+      "title": "JM LOOKS Women's Silver Spool Heel Sandals",
+      "price": "₹722.00",
+      "url": "./images/product32.png",
+      "category": "Shoes"
+    },
+    {
+      "id": 33,
+      "title": "Tresy Women Heels Backstrap Sandals",
+      "price": "₹1,558.00",
+      "url": "./images/product33.png",
+      "category": "Shoes"
+    },
+    {
+      "id": 34,
+      "title": "Combo of Men's Sports Running Shoes",
+      "price": "₹474.00",
+      "url": "./images/product34.webp",
+      "category": "Shoes"
+    },
+    {
+      "id": 35,
+      "title": "JM LOOKS Fashion Women Stylish Casual",
+      "price": "₹616.00",
+      "url": "./images/product35.png",
+      "category": "Shoes"
+    },
+    {
+      "id": 36,
+      "title": "Mosac Women Stylish Trendy Pencil Heel Sandal",
+      "price": "₹649.00",
+      "url": "./images/product36.png",
+      "category": "Shoes"
+    },
+    {
+      "id": 37,
+      "title": "Men's TARZAN-11 Casual Sneaker Shoes",
+      "price": "₹729.00",
+      "url": "./images/product37.webp",
+      "category": "Shoes"
+    },
+    {
+      "id": 38,
+      "title": "Men's Albie Running Shoes",
+      "price": "₹589.00",
+      "url": "./images/product38.webp",
+      "category": "Shoes"
+    },
+    {
+      "id": 39,
+      "title": "ROG Headphone - Model 25",
+      "price": "100",
+      "url": "./images/product39.png",
+      "category": "Shoes"
+    },
+    {
+      "id": 40,
+      "title": "Men's TARZEN-340 White Synthetic Leather",
+      "price": "₹499.00",
+      "url": "./images/product40.webp",
+      "category": "Shoes"
+    },
+    {
+      "id": 41,
+      "title": "Emami 7 Oils In One",
+      "price": "₹374.00",
+      "url": "./images/product41.png",
+      "category": "Beauty"
+    },
+    {
+      "id": 42,
+      "title": "LAKMÉ Eyeconic Insta Cool Kajal, Black,",
+      "price": "₹120.00",
+      "url": "./images/product42.png",
+      "category": "Beauty"
+    },
+    {
+      "id": 43,
+      "title": "NIVEA MEN Fresh Active 50ml Deo Roll On",
+      "price": "₹133.30",
+      "url": "./images/product43.png",
+      "category": "Beauty"
+    },
+    {
+      "id": 44,
+      "title": "Garnier Men Turbo Bright Double Action Face Wash",
+      "price": "₹175.00",
+      "url": "./images/product44.png",
+      "category": "Beauty"
+    },
+    {
+      "id": 45,
+      "title": "Fiama Gel Bar Celebration Pack With 5",
+      "price": "₹280.00",
+      "url": "./images/product45.png",
+      "category": "Beauty"
+    },
+    {
+      "id": 46,
+      "title": "Dettol Liquid Handwash Refill",
+      "price": "₹173.00",
+      "url": "./images/product46.png",
+      "category": "Beauty"
+    },
+    {
+      "id": 47,
+      "title": "eCraftIndia Set of 2 Purple Floral & Pearl Designer Rakhis",
+      "price": "₹179.00",
+      "url": "./images/product47.jpg",
+      "category": "Gift's"
+    },
+    {
+      "id": 48,
+      "title": "Riddhika Ventures Glorious Gold Plated Auspicious",
+      "price": "₹149.00",
+      "url": "./images/product48.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 49,
+      "title": "Sukkhi Rakhi Elegant Floral Kundan Designer Gold",
+      "price": "₹89.00",
+      "url": "./images/product49.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 50,
+      "title": "eCraftIndia Golden Religious Designer Ganesha Rakhi",
+      "price": "₹179.00",
+      "url": "./images/product50.jpg",
+      "category": "Gift's"
+    },
+    {
+      "id": 51,
+      "title": "Yellow Chimes",
+      "price": "₹282.00",
+      "url": "./images/product51.webp",
+      "category": "Gift's"
+    },
+    {
+      "id": 52,
+      "title": "LOUIS DEVIN Rose Gold Plated Mesh Chain",
+      "price": "₹331.00",
+      "url": "./images/product52.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 53,
+      "title": "Acnos® Premium Girl's Special Quality Different Heart Shape",
+      "price": "₹266.00",
+      "url": "./images/product53.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 54,
+      "title": "A Watch Analogue Plain Black Dial Magnet Watch with Gift",
+      "price": "₹284.00",
+      "url": "./images/product54.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 55,
+      "title": "SKMEI Men's Watch New Wheels Rolling Creative Fashion",
+      "price": "₹1,449.00",
+      "url": "./images/product55.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 56,
+      "title": "Noise Newly Launched Quad Call 1.81",
+      "price": "₹1,099.00",
+      "url": "./images/produc56.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 57,
+      "title": "Noise Twist Round dial Smart Watch with Bluetooth Calling",
+      "price": "₹1,199.00",
+      "url": "./images/product57.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 58,
+      "title": "RTIMEWEAR Analog Day Date Functioning Stainless Steel Chain",
+      "price": "₹299.00",
+      "url": "./images/product58.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 59,
+      "title": "Acnos® Premium White Dial Diamond Pink Analog Watch Love Heart",
+      "price": "₹308.00",
+      "url": "./images/product59.png",
+      "category": "Gift's"
+    },
+    {
+      "id": 60,
+      "title": "IMPERIOUS - THE ROYAL WAY Analogue Women's Watch",
+      "price": "₹671.00",
+      "url": "./images/product60.png",
+      "category": "Gift's"
+    }
+  ]
+}
