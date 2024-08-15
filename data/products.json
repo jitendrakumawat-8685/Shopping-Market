@@ -2,120 +2,137 @@
   "products": [
     {
       "id": 1,
-      "title": "ZEBRONICS Thunder Bluetooth 5.3 Wireless",
-      "price": "₹699.00",
-      "url": "./images/product1.webp",
+      "title": "CrossBeats Blaze B24 Bluetooth Soundbar 24W",
+      "price": "₹1,799.00",
+      "link": "https://amzn.to/3M5y6zZ",
+      "url": "https://m.media-amazon.com/images/I/410-eUb1XML._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 2,
-      "title": "boAt Rockerz 425 Bluetooth Wireless Over Ear Headphones",
-      "price": "₹1499.00",
-      "url": "./images/product2.webp",
+      "title": "ZEBRONICS BT4440RUCF 60W 4.1 Channel",
+      "price": "₹2,499.00",
+      "link": "https://amzn.to/3YMhi8J",
+      "url": "https://m.media-amazon.com/images/I/41ko+g-ASjL._SY300_SX300_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 3,
-      "title": "Portronics Conch Gama in-Ear Wired Earphone",
-      "price": "₹228.00 ",
-      "url": "./images/product3.webp",
+      "title": "Amazon Basics B10 10W RMS Bluetooth Speaker",
+      "price": " ₹999.00 ",
+      "link": "https://amzn.to/3YJZYRO",
+      "url": "https://m.media-amazon.com/images/I/41xecVAmlsL._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 4,
-      "title": "Boult Audio W20 Truly Wireless in Ear Earbuds with 35H Playtime,",
-      "price": "₹899.00 ",
-      "url": "./images/product4.webp",
+      "title": "Philips Convertible Soundbar MMS8085B",
+      "price": " ₹7,289.00 ",
+      "link": "https://amzn.to/4dmQ2SF",
+      "url": "https://m.media-amazon.com/images/I/71qrVsOSaxL._SY679_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 5,
-      "title": "Apple iPhone 15 Pro Max (256 GB) - Black Titanium",
-      "price": "₹1,51,700.00",
-      "url": "./images/product5.webp",
+      "title": "Sony HT-S20R Real 5.1ch Dolby Digital Soundbar",
+      "price": "₹14,989.00",
+      "link": "https://amzn.to/4dMzbc3",
+      "url": "https://m.media-amazon.com/images/I/71h7fLNEQPL._SX466_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 6,
-      "title": "POCO C65(Matte Black 6GB RAM 128GB Storage)",
-      "price": "₹7,299.00",
-      "url": "./images/product6.webp",
+      "title": "pTron Fusion Beats 40W Karaoke Bluetooth ",
+      "price": "₹1,499.00",
+      "link": "https://amzn.to/4dqZh4s",
+      "url": "https://m.media-amazon.com/images/I/614VnDOQaaL._SX466_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 7,
-      "title": "Redmi Note 13 Pro+ (Fusion White, 8GB RAM, 256GB Storage)",
-      "price": "₹29,499.00",
-      "url": "./images/product7.webp",
+      "title": "PEATOP 7-in-1 USB C Hub Docking Station",
+      "price": "₹1,899.00",
+      "link": "https://amzn.to/4dfiIgx",
+      "url": "https://m.media-amazon.com/images/I/41V3U7pwK9L._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 8,
-      "title": "Redmi 13 5G, Hawaiian Blue, 6GB+128GB|",
-      "price": "₹13,999.00",
-      "url": "./images/product8.webp",
+      "title": "Amazon Echo Dot (5th Gen) ",
+      "price": "₹4,949.00",
+      "link": "https://amzn.to/4fIYZaF",
+      "url": "https://m.media-amazon.com/images/I/71KIo0RNRVL._SX569_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 9,
-      "title": "Acer Aspire Lite 12th Gen Intel Core i5-1235U Premium Laptop (16GB RAM/512GB SSD)",
-      "price": "₹42,990.00",
-      "url": "./images/product9.webp",
+      "title": "Tygot Bluetooth Extendable Selfie Sticks",
+      "price": " ₹329.00",
+      "link": "https://amzn.to/4fJbRxw",
+      "url": "https://m.media-amazon.com/images/I/41R9o8Y3BmL._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 10,
-      "title": "ZEBRONICS PRO Series Z NBC 4S, Intel Core 12th Gen i5 Processor 16GB RAM & 512GB SSD",
-      "price": "₹31,990.00",
-      "url": "./images/product10.webp",
+      "title": "MAGIC PLUS Mobile Charging Holder",
+      "price": " ₹230.00",
+      "link": "https://amzn.to/4fMNpeM",
+      "url": "https://m.media-amazon.com/images/I/619jfU5scBL._SX466_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 11,
-      "title": "Acer Aspire Lite 12th Gen Intel Core i5-1235U Thin and Light Laptop",
-      "price": "₹39,990.00",
-      "url": "./images/product11.webp",
+      "title": "Cezo 40X60 Magnification Zoom HD",
+      "price": " ₹839.00",
+      "link": "https://amzn.to/3MduHz7",
+      "url": "https://m.media-amazon.com/images/I/41ojjhtetAL._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 12,
-      "title": "Rs.1000 Sony PlayStation Store Gift Card",
-      "price": "₹1,000.00",
-      "url": "./images/product12.png",
+      "title": "Portronics Toad 23 Wireless Optical Mouse",
+      "price": "₹299.00",
+      "link": "https://amzn.to/46JbOhf",
+      "url": "https://m.media-amazon.com/images/I/41KuRShR97L._SX679_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 13,
-      "title": "Rs.2000 Sony PlayStation Network Wallet",
-      "price": "50",
-      "url": "./images/product13.png",
+      "title": "Boult Audio K40 True Wireless in Ear Earbuds",
+      "price": "₹1,299",
+      "link": "https://amzn.to/46L04uo",
+      "url": "https://m.media-amazon.com/images/I/41I9AsvL94L._SY300_SX300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 14,
-      "title": "Rs.3000 Sony PlayStation Network Wallet",
-      "price": "₹3,000.00",
-      "url": "./images/product14.png",
+      "title": "Borosil Chef Delite 300 Watts Electric Chopper",
+      "price": "₹2,241.00",
+      "link": "https://amzn.to/3MduXy5",
+      "url": "https://m.media-amazon.com/images/I/41Eeq2jHb5L._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 15,
-      "title": "pTron Fusion Beats 40W Karaoke Bluetooth Party Speaker, Loud",
-      "price": "₹1,398.00",
-      "url": "./images/product15.webp",
+      "title": "SKYTONE Silicone Kitchen Spatula ",
+      "price": "₹1,604.00",
+      "link": "https://amzn.to/3YG1h4l",
+      "url": "https://m.media-amazon.com/images/I/41tYhI6DjYL._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 16,
-      "title": "ZEBRONICS BT4440RUCF 60W 4.1 Channel Multimedia Speakers ",
-      "price": "₹2,499.00",
-      "url": "./images/product16.webp",
+      "title": "Bitnex Kitchen Gadgets Set,Kitchen Scissors ",
+      "price": "₹599.00",
+      "link": "https://amzn.to/3M6CQFH",
+      "url": "https://m.media-amazon.com/images/I/612diu36CAL._SX569_.jpg",
       "category": "Electronc's"
     },
     {
       "id": 17,
       "title": "Casual Shirt for Men|| Shirt for Men|| Men Stylish",
       "price": "₹449.00",
+      "link": "",
       "url": "./images/product17.png",
       "category": "Clothes"
     },
@@ -123,6 +140,7 @@
       "id": 18,
       "title": "Women Banarasi Silk Jacquard Saree With Blouse Piece",
       "price": "₹905.00",
+      "link": "",
       "url": "./images/product18.webp",
       "category": "Clothes"
     },
@@ -130,6 +148,7 @@
       "id": 19,
       "title": "Funkyrich® Textured Popcorn Shirts for Men",
       "price": "₹399.00",
+      "link": "",
       "url": "./images/product19.png",
       "category": "Clothes"
     },
@@ -137,6 +156,7 @@
       "id": 20,
       "title": "Women's Stylish Cotton Blend Ajrak Digital Printed",
       "price": "₹474.00",
+      "link": "",
       "url": "./images/product20.webp",
       "category": "Clothes"
     },
@@ -144,6 +164,7 @@
       "id": 21,
       "title": "Men's Cotton Blend Mandarin Collar Self One Design",
       "price": "₹494.00",
+      "link": "",
       "url": "./images/product21.webp",
       "category": "Clothes"
     },
@@ -151,6 +172,7 @@
       "id": 22,
       "title": "Women Tafetta Silk Readymade Lehenga Choli Set",
       "price": "₹3,109.00",
+      "link": "",
       "url": "./images/product22.png",
       "category": "Clothes"
     },
@@ -158,6 +180,7 @@
       "id": 23,
       "title": "Men's Cotton Blend Stitched Solid Half",
       "price": "₹269.00",
+      "link": "",
       "url": "./images/product23.webp",
       "category": "Clothes"
     },
@@ -165,7 +188,7 @@
       "id": 24,
       "title": "Casual Shirt for Men|| Shirt for Men",
       "price": "₹349.00",
-      "link" : "https://www.youtube.com/",
+      "link": "",
       "url": "./images/product24.png",
       "category": "Clothes"
     },
@@ -173,6 +196,7 @@
       "id": 25,
       "title": "Women's Cotton Blend Straight Embroidery Kurta",
       "price": "₹699.00",
+      "link": "",
       "url": "./images/product25.png",
       "category": "Clothes"
     },
@@ -180,6 +204,7 @@
       "id": 26,
       "title": "Cotton Spread Collar Long Sleeve Shirt",
       "price": "₹299.00",
+      "link": "",
       "url": "./images/product26.webp",
       "category": "Clothes"
     },
@@ -187,6 +212,7 @@
       "id": 27,
       "title": "Women's Rayon Blend Straight Printed Kurta",
       "price": "₹599.00",
+      "link": "",
       "url": "./images/product27.webp",
       "category": "Clothes"
     },
@@ -194,6 +220,7 @@
       "id": 28,
       "title": "Cotton Calf Length Embroidered Anarkali Kurti",
       "price": "₹780.00",
+      "link": "",
       "url": "./images/product28.webp",
       "category": "Clothes"
     },
@@ -201,6 +228,7 @@
       "id": 29,
       "title": "Women's Kurta with Pant & Dupatta",
       "price": "₹599.00",
+      "link": "",
       "url": "./images/product29.webp",
       "category": "Clothes"
     },
@@ -208,6 +236,7 @@
       "id": 30,
       "title": "SPARX",
       "price": "₹1,316.00",
+      "link": "",
       "url": "./images/product30.webp",
       "category": "Shoes"
     },
@@ -215,6 +244,7 @@
       "id": 31,
       "title": "Bacca Bucci",
       "price": "₹1,519.00",
+      "link": "",
       "url": "./images/product31.webp",
       "category": "Shoes"
     },
@@ -222,6 +252,7 @@
       "id": 32,
       "title": "JM LOOKS Women's Silver Spool Heel Sandals",
       "price": "₹722.00",
+      "link": "",
       "url": "./images/product32.png",
       "category": "Shoes"
     },
