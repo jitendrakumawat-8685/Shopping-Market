@@ -10,7 +10,7 @@
   --title-color: rgb(0, 0, 0);
   --text-color: rgb(89, 89, 89);
   /* --text-color-light: hsl(0, 0%, 55%); */
-  --body-color: rgb(27 0 255 / 19%);
+  --body-color: rgba(255, 255, 255, 0.19);
   ;
   --container-color: rgb(240, 240, 240);
   --border-color: rgb(240, 240, 240);
@@ -22,7 +22,7 @@
   --small-font-size: .613rem;
 
   /*========== Font weight ==========*/
-  --font-medium: 510;
+  --font-medium: 710;
 
   /*========== Margenes Bottom ==========*/
   --mb-0-5: .5rem;
@@ -80,11 +80,13 @@ a {
 
 
 img {
+  margin-bottom: 1rem;
   max-width: 100%;
   height: auto;
 }
 
 button {
+  border-bottom-left-radius: .4rem;
   cursor: pointer;
   border: none;
   outline: none;
@@ -106,7 +108,7 @@ button {
 }
 
 .section {
-  padding: 5rem 0 1rem;
+  padding: 2rem 0 1rem;
 }
 
 .section__title {
@@ -132,21 +134,23 @@ button {
 
 /*=============== PRODUCTS ===============*/
 .products__container {
-  grid-template-columns: repeat(2, 1fr);
-  gap: 0.5rem;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1rem;
 }
 
 .products__card {
+  box-shadow: 0.3rem 0.3rem 0.5rem #00000036;
+  border-radius: 0.4rem;
   position: relative;
   background-color: white;
-  padding: 0 0 2.25rem 0;
+  padding: 0 0 2rem 0;
   border: 1px solid var(--border-color);
   text-align: center;
   transition: .3s;
 }
 
 .products__img {
-  height: 100px;
+  height: 8rem;
   margin-bottom: 0;
 }
 

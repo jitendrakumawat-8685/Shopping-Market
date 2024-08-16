@@ -119,7 +119,7 @@ async function loadData() {
       'beforeend',
       `<div class="product">
           <div class="top d-flex">
-            <img src=${product.url} alt="" />
+            <a href="${product.link}"><img src=${product.url} alt="" /></a>
             <div class="icon d-flex">
               <i class="bx bxs-heart"></i>
             </div>
